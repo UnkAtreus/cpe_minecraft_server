@@ -1,0 +1,25 @@
+Blocks:
+  Top:
+    # Height above the trunk to check for leaves
+    Height: 1
+  Middle:
+    # Radius around the trunk to check for leaves
+    Radius: 0
+# Drop chances for extra drops. 1.0 would be 100% chance!
+Custom Drops:
+  minecraft:mushroom_stem: 0.01
+# Valid blocks that are below and around the saplings
+Ground Blocks:
+- minecraft:podzol
+- minecraft:mycelium
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+# The parent tree config to inherit from, recursively
+Parent: default
+Trunk:
+  # One of these materials needs to be part of the trunk for it to count as a trunk
+  Materials:
+  - minecraft:mushroom_stem
+# Version number for automagical config updates
+Version: 7.009699821472168
