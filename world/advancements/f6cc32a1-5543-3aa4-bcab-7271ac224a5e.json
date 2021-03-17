@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-03-15 18:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-03-09 08:24:15 +0000"
@@ -518,12 +524,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-03-08 18:01:04 +0000",
+      "minecraft:magma_cube": "2021-03-16 17:02:46 +0000",
       "minecraft:spider": "2021-03-09 09:52:06 +0000",
       "minecraft:creeper": "2021-03-09 10:48:23 +0000",
       "minecraft:zombified_piglin": "2021-03-09 08:15:11 +0000",
       "minecraft:silverfish": "2021-03-08 18:57:49 +0000",
       "minecraft:stray": "2021-03-11 16:07:46 +0000",
+      "minecraft:enderman": "2021-03-16 17:02:34 +0000",
       "minecraft:zombie": "2021-03-08 17:43:54 +0000",
+      "minecraft:drowned": "2021-03-17 19:22:42 +0000",
       "minecraft:zombie_villager": "2021-03-09 10:29:13 +0000"
     },
     "done": false
@@ -780,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-03-17 19:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-03-08 18:33:06 +0000"
@@ -1000,13 +1015,17 @@
       "minecraft:taiga_hills": "2021-03-08 18:42:33 +0000",
       "minecraft:frozen_river": "2021-03-08 18:33:24 +0000",
       "minecraft:birch_forest": "2021-03-12 18:16:03 +0000",
+      "minecraft:warm_ocean": "2021-03-17 19:23:52 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-03-17 19:25:31 +0000",
       "minecraft:beach": "2021-03-08 19:45:41 +0000",
       "minecraft:dark_forest": "2021-03-08 18:46:35 +0000",
       "minecraft:river": "2021-03-08 18:33:23 +0000",
       "minecraft:lukewarm_ocean": "2021-03-08 19:45:49 +0000",
       "minecraft:snowy_taiga": "2021-03-08 18:39:59 +0000",
+      "minecraft:birch_forest_hills": "2021-03-15 18:10:09 +0000",
       "minecraft:wooded_mountains": "2021-03-08 18:26:46 +0000",
       "minecraft:wooded_hills": "2021-03-11 15:48:29 +0000",
+      "minecraft:stone_shore": "2021-03-17 19:25:43 +0000",
       "minecraft:swamp": "2021-03-12 18:17:22 +0000",
       "minecraft:snowy_taiga_hills": "2021-03-09 09:56:41 +0000",
       "minecraft:plains": "2021-03-08 17:31:36 +0000"
@@ -1141,6 +1160,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-03-16 17:06:24 +0000",
       "minecraft:nether_wastes": "2021-03-08 19:16:09 +0000",
       "minecraft:basalt_deltas": "2021-03-09 08:14:45 +0000"
     },
@@ -1296,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-03-15 18:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-03-08 20:09:54 +0000"
@@ -1438,7 +1464,8 @@
       "beetroot": "2021-03-11 23:15:15 +0000",
       "cooked_rabbit": "2021-03-11 10:57:06 +0000",
       "cooked_chicken": "2021-03-08 18:06:44 +0000",
-      "cooked_salmon": "2021-03-11 12:47:24 +0000"
+      "cooked_salmon": "2021-03-11 12:47:24 +0000",
+      "carrot": "2021-03-15 18:23:48 +0000"
     },
     "done": false
   },
@@ -1511,6 +1538,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-03-08 17:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-03-15 18:56:35 +0000"
     },
     "done": true
   },
@@ -2297,6 +2330,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2021-03-08 20:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-03-16 17:07:03 +0000"
     },
     "done": true
   },

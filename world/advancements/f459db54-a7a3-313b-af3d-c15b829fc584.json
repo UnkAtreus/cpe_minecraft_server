@@ -476,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-03-16 11:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-03-12 10:55:02 +0000"
@@ -799,6 +805,7 @@
       "minecraft:skeleton": "2021-03-11 14:33:51 +0000",
       "minecraft:magma_cube": "2021-03-12 12:18:38 +0000",
       "minecraft:spider": "2021-03-11 22:43:50 +0000",
+      "minecraft:creeper": "2021-03-16 11:42:54 +0000",
       "minecraft:phantom": "2021-03-12 12:28:52 +0000",
       "minecraft:zombie": "2021-03-09 09:54:32 +0000"
     },
@@ -813,6 +820,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-03-12 12:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-03-16 12:47:41 +0000"
     },
     "done": true
   },
@@ -849,6 +862,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-03-11 22:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-03-16 12:47:41 +0000"
     },
     "done": true
   },
@@ -1071,6 +1090,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-03-12 20:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2021-03-16 11:53:15 +0000"
     },
     "done": true
   },
@@ -1677,6 +1702,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-03-09 09:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2021-03-16 11:53:15 +0000"
     },
     "done": true
   },
