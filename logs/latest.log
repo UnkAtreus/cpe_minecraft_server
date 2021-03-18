@@ -1,114 +1,31 @@
-[18:57:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:58:01] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[18:58:03] [Worker-Main-2/INFO]: Loaded 7 recipes
-[18:58:07] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[18:58:07] [Server thread/INFO]: Loading properties
-[18:58:07] [Server thread/INFO]: Default game type: SURVIVAL
-[18:58:07] [Server thread/INFO]: Generating keypair
-[18:58:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:58:08] [Server thread/INFO]: Using epoll channel type
-[18:58:10] [Server thread/INFO]: This server is running CraftBukkit version 2991-Bukkit-f3f3094 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[18:58:13] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v7.1.7
-[18:58:13] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[18:58:13] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/nether.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/default.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/mushroom/mushroom-brown.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/mushroom/mushroom-red.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/tall_spruce.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/birch.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/spruce.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/tall_oak.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/acacia.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/jungle.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/dark_oak.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/tall_jungle.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/overworld/oak.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/nether/crimson_fungus.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/nether/thick_warped_fungus.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/nether/warped_fungus.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/nether/thick_crimson_fungus.yml
-[18:58:14] [Server thread/INFO]: [TreeAssist] Loading tree config file: /trees/mushroom.yml
-[18:58:14] [Server thread/WARN]: [TreeAssist] No valid node: Update
-[18:58:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:58:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:58:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:58:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:58:14] [Server thread/INFO]: Preparing level "world"
-[18:58:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:19] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[18:58:19] [Server thread/INFO]: Preparing spawn area: 33%
-[18:58:20] [Server thread/INFO]: Time elapsed: 5660 ms
-[18:58:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:58:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:22] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:23] [Server thread/INFO]: Time elapsed: 2608 ms
-[18:58:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:58:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:23] [Server thread/INFO]: Preparing spawn area: 0%
-[18:58:24] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:24] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:25] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:25] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:26] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:26] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:27] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[18:58:27] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[18:58:28] [Worker-Main-3/INFO]: Preparing spawn area: 91%
-[18:58:28] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[18:58:28] [Server thread/INFO]: Time elapsed: 5639 ms
-[18:58:28] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.1.7
-[18:58:29] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[18:58:29] [Server thread/INFO]: [TreeAssist] debugging: off
-[18:58:29] [Server thread/INFO]: [TreeAssist] Checking for updates...
-[18:58:29] [Thread-9/INFO]: [TreeAssist] Checking for updates...
-[18:58:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:58:29] [Server thread/INFO]: Done (14.873s)! For help, type "help"
-[18:58:32] [Thread-9/INFO]: You are using [0;33;1mv7.1.7[0;37;1m, an outdated version! Latest: [0;32;1mv7.1.10[m
-[18:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[18:58:38] [Server thread/INFO]: The plugin could not updated, download the new version here: https://www.spigotmc.org/resources/pvp-stats.59124/[m
-[18:59:04] [Server thread/INFO]: 721945[/49.49.239.57:60679] logged in with entity id 340 at ([world]-345.84200110692063, 72.0, 308.50377690463426)
-[18:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7945ms or 158 ticks behind
-[19:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25553ms or 511 ticks behind
-[19:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7037ms or 140 ticks behind
-[19:01:53] [Server thread/INFO]: 721945 has completed the challenge [Sniper Duel]
-[19:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
-[19:12:01] [Server thread/INFO]: jommyX[/124.120.2.153:62802] logged in with entity id 3202 at ([world_nether]-67.71971946927528, 63.60407194817763, 151.31014484320474)
-[19:13:16] [Netty Epoll Server IO #0/INFO]: <jommyX> ืน[m
-[19:13:18] [Netty Epoll Server IO #0/INFO]: <jommyX> no[m
-[19:14:55] [Server thread/INFO]: 721945 has made the advancement [The End?]
-[19:14:56] [Server thread/WARN]: 721945 moved too quickly! 286.2235173837218,24.945106652967926,-1660.122849825396
-[19:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[19:14:58] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:14:58] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[19:18:45] [Server thread/INFO]: Villager EntityVillager['Librarian'/5076, l='ServerLevel[world]', x=-168.22, y=78.00, z=649.62] died, message: 'Librarian was slain by Zombie'
-[19:29:11] [Server thread/INFO]: 721945 has made the advancement [Free the End]
-[19:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
-[19:32:39] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[19:32:39] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[19:32:41] [Server Watchdog/ERROR]: This crash report has been saved to: /home/thekogo/cpe_minecraft_server/./crash-reports/crash-2021-03-17_19.32.41-server.txt
-[19:32:41] [Thread-3/INFO]: Stopping server
-[19:32:41] [Thread-3/INFO]: [TreeAssist] Disabling TreeAssist v7.1.7
-[19:32:41] [Thread-3/INFO]: Saving players
-[19:32:41] [Thread-3/INFO]: jommyX lost connection: Server closed
-[19:32:42] [Thread-3/WARN]: Exception in thread "Thread-3" java.lang.IllegalStateException: Removing entity while ticking!
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.WorldServer.removeEntity(WorldServer.java:1064)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.WorldServer.removePlayer(WorldServer.java:1083)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerList.disconnect(PlayerList.java:430)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1453)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.disconnect(PlayerConnection.java:276)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerList.shutdown(PlayerList.java:1054)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.stop(MinecraftServer.java:717)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.stop(DedicatedServer.java:635)
-[19:32:42] [Thread-3/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.close(MinecraftServer.java:684)
-[19:32:42] [Thread-3/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.util.ServerShutdownThread.run(ServerShutdownThread.java:15)
+[00:01:56] [Server thread/INFO]: MonkeyDDevil issued server command: /time set 0
+[00:03:10] [Server thread/INFO]: MonkeyDDevil issued server command: /hat
+[00:32:31] [Server thread/INFO]: MonkeyDDevil issued server command: /time set 0
+[00:34:31] [Server thread/INFO]: MonkeyDDevil issued server command: /enderchest
+[00:37:49] [Server thread/INFO]: MonkeyDDevil issued server command: /enderchest
+[01:44:46] [Server thread/INFO]: MonkeyDDevil issued server command: /time set 0
+[02:38:40] [Server thread/INFO]: 721945 lost connection: Disconnected
+[02:38:40] [Server thread/INFO]: 721945 left the game
+[02:58:37] [Server thread/INFO]: MonkeyDDevil issued server command: /time set 0
+[03:02:28] [Server thread/INFO]: MonkeyDDevil issued server command: /warp Spawn
+[04:52:30] [Server thread/INFO]: 721945[/25.87.181.85:54483] logged in with entity id 202667 at ([world]-317.4041730429825, 11.003016261509043, 329.55587685446073)
+[05:04:47] [Server thread/INFO]: 721945 lost connection: Disconnected
+[05:04:47] [Server thread/INFO]: 721945 left the game
+[05:04:53] [Server thread/INFO]: MonkeyDDevil lost connection: Disconnected
+[05:04:53] [Server thread/INFO]: MonkeyDDevil left the game
+[05:05:02] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[05:05:04] [Server thread/INFO]: Stopping the server
+[05:05:04] [Server thread/INFO]: Stopping server
+[05:05:04] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[05:05:05] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.1.7
+[05:05:05] [Server thread/INFO]: Saving players
+[05:05:05] [Server thread/INFO]: Saving worlds
+[05:05:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:05:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:05:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:05:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:05:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:05:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

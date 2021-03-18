@@ -1,0 +1,28 @@
+lastAccountName: MonkeyDDevil
+timestamps:
+  login: 1616083737100
+  lastteleport: 1616097748977
+  logout: 1616105093025
+ipAddress: 25.31.218.188
+lastlocation:
+  world: world
+  x: -476.3230160161429
+  y: 80.9375
+  z: 177.9816736214677
+  yaw: -355.82715
+  pitch: 34.499653
+logoutlocation:
+  world: world
+  x: -490.12402560464324
+  y: 89.0
+  z: 263.98149851040733
+  yaw: -256.42603
+  pitch: 18.45117
+homes:
+  home:
+    world: world
+    x: -468.1899910770854
+    y: 52.0
+    z: 201.30160890479655
+    yaw: -114.01807
+    pitch: 33.149494
